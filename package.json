@@ -1,0 +1,20 @@
+{
+  "name": "Flashloan-Example",
+  "version": "1.0.0",
+  "description": "- When first constructed, the Flashloan contract has 1000 ether.",
+  "main": "index2.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/v2-core": "^1.0.1",
+    "solc": "0.8.0",
+    "truffle-privatekey-provider": "^1.5.0",
+    "web3": "^1.5.2"
+  }
+}
